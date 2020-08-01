@@ -1,4 +1,4 @@
 # Master's degree project
 
 Image description
-!(graphs.png)
+![Results](/graphs.png)
