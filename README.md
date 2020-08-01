@@ -1,4 +1,6 @@
 # Master's degree project
 
-Image description
+*examples* contain all algorithms
+
+## Results after training
 ![Results](/graphs.png)
