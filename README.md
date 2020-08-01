@@ -1,2 +1,3 @@
-# sc2_marl
-Master's degree project
+# Master's degree project
+
+
